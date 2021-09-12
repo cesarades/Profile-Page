@@ -17,7 +17,7 @@
 
 body {
   font-family: sans-serif;
-  color: #183059;
+  color: #191919;
   background-color: #F6F4F3;
   font-size: 16px;
 }
@@ -41,7 +41,7 @@ img {
 }
 
 .typewriter {
-  margin: 0px 125px;
+  margin: 0px 126px;
 }
 
 .typewriter h1 {
@@ -68,7 +68,7 @@ img {
 /* The typewriter cursor effect */
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: #183059; }
+  50% { border-color: #191919; }
 }
 
 h2 {
@@ -99,7 +99,7 @@ button:active {
 }
 
 a {
-  color: #183059;
+  color: #191919;
 }
 
 a:hover {
